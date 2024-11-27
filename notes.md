@@ -30,7 +30,7 @@
 - tilmælding af events
     - husk ledsager over 18 hvis du er en deltager under 18
 
-- ogo mindre når scroller ned
+- logo mindre når scroller ned
 - header bliver i toppen (sticky)
 
 ## tidsbaseret
