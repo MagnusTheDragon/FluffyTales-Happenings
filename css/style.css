@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+header {
+  width: 100vw;
+  height: 10rem;
+  background-color: "ff0000";
+}
+header nav ul.navigation li a {
+  color: red;
+}/*# sourceMappingURL=style.css.map */

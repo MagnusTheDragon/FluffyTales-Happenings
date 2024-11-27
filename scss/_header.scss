@@ -1,0 +1,17 @@
+@use 'variables' as v;
+
+
+header{
+    width: 100vw;
+    height: 10rem;
+    background-color: v.$primarycolor;
+    nav{
+        ul.navigation{
+            li{
+                a{
+                    color: red;
+                }
+            }
+        }
+    }
+}
